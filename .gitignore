@@ -1,0 +1,5 @@
+data/cleaner/.venv
+data/server/.venv
+data/trainer/.venv
+.vscode
+.env
